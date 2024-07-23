@@ -1,0 +1,36 @@
+
+
+Version:	3.50
+CmdLine:	D:\CODE\Java\com.poly.asm\target\com.poly.asm-1.0-SNAPSHOT.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\CODE\Java\com.poly.asm\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-21
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\CODE\Java\com.poly.asm\target\com.poly.asm-1.0-SNAPSHOT.exe"
+Args length:	69/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\CODE\Java\com.poly.asm\target\com.poly.asm-1.0-SNAPSHOT.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\CODE\Java\com.poly.asm\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-21
+Check launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe (OK)
+Version string: 1.021.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-21\bin\javaw.exe
+Launcher args:	-jar "D:\CODE\Java\com.poly.asm\target\com.poly.asm-1.0-SNAPSHOT.exe"
+Args length:	69/32768 chars
+Exit code:	0
